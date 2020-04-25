@@ -4,7 +4,7 @@
 
 ##### Feito com :purple_heart: por Brendon Guedes
 
-###### Considere deixar uma :star: neste projeto :heart_eyes:
+##### Considere deixar uma :star: neste projeto :heart_eyes:
 
 ### Make with GraphQL, ReactJS and NodeJS. :rocket:
 Make with React, GraphQL and NodeJS, a beautiful clone the Deliveroo App.
